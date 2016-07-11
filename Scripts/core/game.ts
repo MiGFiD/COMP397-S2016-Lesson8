@@ -12,7 +12,7 @@
 
 namespace core {
 
-
+//a
     // Variable Declarations
     // make a reference to the canvas element
     let canvas: HTMLElement = document.getElementById("canvas");
